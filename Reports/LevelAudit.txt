@@ -1,0 +1,8 @@
+Level audit; device=MacBook Air Speakers; rate=48000.0; source sine peak=0.02 RMS=0.0141421356; ownProcesses=[148]
+stereo-mixdown: peak=0.02, rms=0.013439372249020174, frames=48640
+device-stream: peak=0.020000003, rms=0.013883239985926056, frames=48128
+
+Roundtrip measurement: source process → app DSP → parent process tap. Expected peak=0.02 × gain.
+gain=0.5: peak=0.0100000035, RMS=0.006607229510627161, frames=38400
+gain=1.0: peak=0.020000001, RMS=0.013238748417761141, frames=38400
+gain=2.0: peak=0.03999961, RMS=0.02649888026479891, frames=38400

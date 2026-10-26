@@ -1,0 +1,9 @@
+SoundHoreg 0.2.0 process observation
+wallSeconds=10.499901041664998
+cpuSeconds=0.01110399999999978
+cpuPercentOfOneCore=0.10575337763601426
+refreshEvents=0
+meterTimer=false
+windowVisible=false
+dspChannels=0
+This is a short process CPU sample, not a battery-life measurement.
